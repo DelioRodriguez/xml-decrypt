@@ -1,0 +1,17 @@
+node_modules
+dist
+build-server
+.git
+.agents
+.codex
+.aws
+.idea
+.vscode
+.openai
+.env*
+*.local
+*.log
+*.enc
+*.xml
+coverage
+release
